@@ -1,2 +1,3 @@
 đến cả cục phân cũng hiểu được lệnh git
 hiểu tạm tạm rồi
+commit: Lưu lại trạng thái của index
